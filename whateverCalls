@@ -1,0 +1,5 @@
+pure_circle(a) {
+  size(a,a);
+  background(255);  //white
+  ellipse(200,200,280.280);
+  }
